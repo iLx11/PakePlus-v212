@@ -1,0 +1,1 @@
+import{Ft as e,Ht as t,Q as n,_t as r,st as i,wt as a,xt as o,yt as s}from"./index-CxDn-bDx.js";var c={class:`advance-config-content`},l=a({__name:`AdvanceConfig`,setup(a){let l=n();i();let u=r(()=>l.getComponentByPath(l.advanceUseCompPath));return(n,r)=>(e(),o(`div`,c,[(e(),s(t(u.value)))]))}});export{l as default};
